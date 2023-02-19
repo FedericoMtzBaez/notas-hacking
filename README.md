@@ -1,14 +1,7 @@
-# Seguridad de Redes y Sistemas de Software
+# Seguridad en Redes
 
-## Documentacion de los retos de CTF
+## Notas de Hacking de los retos resueltos durante el semestre
 
 Federico Martinez Baez
+
 fede19221922@gmail.com
-
-Retos resueltos 
-Pico CTF 
-
-```bash
-ls -la
-
-```
