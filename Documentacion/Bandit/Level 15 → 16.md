@@ -1,4 +1,4 @@
-# Bandit Level x → Level x
+# Bandit Level 15 → Level 16
 
 
 ## Objetivo

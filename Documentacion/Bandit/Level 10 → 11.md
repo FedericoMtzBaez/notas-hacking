@@ -1,4 +1,4 @@
-# Bandit Level x → Level x
+# Bandit Level 10 → Level 11
 
 
 ## Objetivo
