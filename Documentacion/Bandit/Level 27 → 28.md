@@ -60,6 +60,7 @@ bandit27@bandit:/tmp/tmp.9aT1XjrcMb/repo$ ls
 README
 bandit27@bandit:/tmp/tmp.9aT1XjrcMb/repo$ cat README 
 The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19nR
+
 ```
 
 ## Notas adicionales

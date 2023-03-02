@@ -23,6 +23,8 @@ bandit26@bandit:~$ ./bandit27-do id
 uid=11026(bandit26) gid=11026(bandit26) euid=11027(bandit27) groups=11026(bandit26)   
 bandit26@bandit:~$ ./bandit27-do cat /etc/bandit_pass/bandit27
 YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS 
+
+
 ```
 
 ## Notas adicionales
