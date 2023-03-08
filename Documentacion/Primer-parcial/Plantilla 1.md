@@ -12,12 +12,9 @@
 ```
 
 ## Bandera
+picoCTF{}
 
 ## Notas adicionales
-
-| comado | descripcion |
-|----------|-------------|
-| ---| ---
 |
 
 ## Referencias
