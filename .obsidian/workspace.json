@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fff00ce0bbb85079",
+        "id": "81c460f36efb2883",
         "type": "tabs",
         "children": [
           {
-            "id": "3b464d43fbe40fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Lests Warm Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5ae8f2ecb751ce",
+            "id": "d98ac60787d843f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,103 +20,43 @@
             }
           },
           {
-            "id": "0b5666c870b5413e",
+            "id": "a7c4b2d90b2d1cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/2Warma.md",
+                "file": "Documentacion/Primer-parcial/Pico CTF 2019/dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac8f81ea9d9d6611",
+            "id": "92025a7d45b64aae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/what's a net cat.md",
+                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "237dbd283db22344",
+            "id": "3f39f577feedb404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/strings it.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2b9ca0556e8196f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Bases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "082b8f6cd73d0c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/First Grep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f4ff879d745cb92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Based.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9faf50bd15337659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Plumbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1cf832c802b4a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacion/Bandit/Servidor.md",
+                "file": "Documentacion/Primer-parcial/Plantilla 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Plumbing.md",
+                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Plumbing.md",
+                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Plumbing.md"
+                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Client-side-again.md"
               }
             }
           }
@@ -255,18 +183,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9faf50bd15337659",
+  "active": "92025a7d45b64aae",
   "lastOpenFiles": [
-    "Documentacion/Primer-parcial/Plantilla 1.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Plumbing.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Based.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/First Grep.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Bases.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/strings it.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/what's a net cat.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/2Warma.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/WarmedUp.md",
     "Documentacion/Primer-parcial/Pico CTF 2019/Lests Warm Up.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/picobrowser.md",
+    "Documentacion/Primer-parcial/Plantilla 1.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/Client-side-again.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/dont-use-client-side.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/Logon.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/where are the robots.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/what's a net cat.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/Insp3ct0r.md",
+    "Documentacion/Bandit/Servidor.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/WarmedUp.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/strings it.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/Plumbing.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/First Grep.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/Based.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/Bases.md",
+    "Documentacion/Primer-parcial/Pico CTF 2019/2Warma.md",
     "Documentacion/Primer-parcial/Untitled.md",
     "Documentacion/Bandit/Level 32 → 33.md",
     "Documentacion/Bandit/Level 31 → 32.md",
@@ -274,14 +209,7 @@
     "Documentacion/Bandit/Level 29 → 30.md",
     "Documentacion/Bandit/Level 28 → 29.md",
     "Documentacion/Bandit/Level 27 → 28.md",
-    "Documentacion/Bandit/Servidor.md",
     "Documentacion/Bandit/Level 22 → 23.md",
-    "Documentacion/Bandit/Level 26 → 27.md",
-    "Documentacion/Bandit/Level 25 → 26.md",
-    "Documentacion/Bandit/Level 24 → 25.md",
-    "Documentacion/Bandit/Level 23 → 24.md",
-    "Documentacion/Bandit/Level 21 → 22.md",
-    "Documentacion/Plantilla.md",
-    "Documentacion/Bandit/Untitled.md"
+    "Documentacion/Bandit/Level 26 → 27.md"
   ]
 }
