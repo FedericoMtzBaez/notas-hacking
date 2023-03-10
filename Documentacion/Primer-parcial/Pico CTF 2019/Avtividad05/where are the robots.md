@@ -6,7 +6,7 @@ Can you find the robots? `https://jupiter.challenges.picoctf.org/problem/56830/
 What part of the website could tell you where the creator doesn't want you to look?
 
 ## Solucion
-```
+``` 
 User-agent: *
 Disallow: /1bb4c.html
 
