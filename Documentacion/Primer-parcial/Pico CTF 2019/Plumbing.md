@@ -6,11 +6,15 @@ Remember the flag format is picoCTF{XXXX}
 
 
 ## Solucion
-```
+``` bash
+┌──(kali㉿kali)-[~]
+└─$ nc jupiter.challenges.picoctf.org 4427 | grep pico
+picoCTF{digital_plumb3r_5ea1fbd7}
+
 ```
 
 ## Bandera
-picoCTF{}
+picoCTF{digital_plumb3r_5ea1fbd7}
 
 ## Notas adicionales
 |
