@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15b98bf2f0d57d5f",
+        "id": "9301d38a1462d27a",
         "type": "tabs",
         "children": [
           {
-            "id": "8f19d24996058a0e",
+            "id": "0b5774be5387021f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/where are the robots.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/where are the robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/where are the robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/where are the robots.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,19 +138,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8f19d24996058a0e",
+  "active": "0b5774be5387021f",
   "lastOpenFiles": [
-    "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/picobrowser.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/Logon.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/Insp3ct0r.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/dont-use-client-side.md",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/Client-side-again.md",
-    "2023-03-10 (1) 1.png",
+    "Documentacion/Actividad05/picobrowser.md",
+    "Documentacion/Primer-parcial/Plantilla.md",
+    "Utils",
+    "Utils/2023-03-10 (1) 1.png",
+    "Documentacion/PICOCTF/Plantilla.md",
+    "Documentacion/Untitled.md",
+    "Documentacion/PICOCTF",
+    "Documentacion/Actividad05/where are the robots.md",
+    "Documentacion/Actividad05",
+    "Documentacion/Actividad05/Logon.md",
+    "Documentacion/Actividad05/Insp3ct0r.md",
+    "Documentacion/Actividad05/dont-use-client-side.md",
+    "Documentacion/Actividad05/Client-side-again.md",
     "2023-03-10 (1).png",
-    "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05/where are the robots.md",
     "Documentacion/Primer-parcial/Pico CTF 2019/Avtividad05",
     "Documentacion/Primer-parcial/Pico CTF 2019/Lests Warm Up.md",
-    "Documentacion/Primer-parcial/Plantilla 1.md",
     "Documentacion/Primer-parcial/Pico CTF 2019/what's a net cat.md",
     "Documentacion/Bandit/Servidor.md",
     "Documentacion/Primer-parcial/Pico CTF 2019/WarmedUp.md",
@@ -173,8 +170,6 @@
     "Documentacion/Bandit/Level 31 → 32.md",
     "Documentacion/Bandit/Level 30 → 31.md",
     "Documentacion/Bandit/Level 29 → 30.md",
-    "Documentacion/Bandit/Level 28 → 29.md",
-    "Documentacion/Bandit/Level 27 → 28.md",
-    "Documentacion/Bandit/Level 22 → 23.md"
+    "Documentacion/Bandit/Level 28 → 29.md"
   ]
 }
