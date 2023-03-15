@@ -11,11 +11,28 @@
             "id": "0b5774be5387021f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Documentacion/Actividad06/Irish-Name-Repo 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a2cb7a3dd3400ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentacion/Actividad06/JaWT Scratchpad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documentacion/Actividad06/JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documentacion/Actividad06/JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Documentacion/Actividad06/JaWT Scratchpad.md"
+              }
             }
           }
         ]
@@ -138,10 +159,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0b5774be5387021f",
+  "active": "3a2cb7a3dd3400ad",
   "lastOpenFiles": [
-    "Documentacion/Actividad05/picobrowser.md",
+    "Documentacion/Actividad06/Irish-Name-Repo 3.md",
     "Documentacion/Primer-parcial/Plantilla.md",
+    "Utils/3.png",
+    "Documentacion/Actividad06/Irish-Name-Repo 2.md",
+    "Documentacion/Actividad05/picobrowser.md",
     "Utils",
     "Utils/2023-03-10 (1) 1.png",
     "Documentacion/PICOCTF/Plantilla.md",
@@ -168,8 +192,6 @@
     "Documentacion/Primer-parcial/Untitled.md",
     "Documentacion/Bandit/Level 32 → 33.md",
     "Documentacion/Bandit/Level 31 → 32.md",
-    "Documentacion/Bandit/Level 30 → 31.md",
-    "Documentacion/Bandit/Level 29 → 30.md",
-    "Documentacion/Bandit/Level 28 → 29.md"
+    "Documentacion/Bandit/Level 30 → 31.md"
   ]
 }
