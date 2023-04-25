@@ -15,6 +15,5 @@
 picoCTF{}
 
 ## Notas adicionales
-|
 
 ## Referencias
