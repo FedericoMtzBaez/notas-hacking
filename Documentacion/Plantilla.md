@@ -5,7 +5,7 @@
 
 ## Pistas
 
-
+- 
 
 ## Solucion
 ``` 
