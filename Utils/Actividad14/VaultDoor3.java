@@ -1,17 +1,24 @@
 import java.util.*;
 
 class VaultDoor3 {
+    
     public static void main(String args[]) {
+
         VaultDoor3 vaultDoor = new VaultDoor3();
+        String S = vaultDoor.checkPassword("jU5t_a_sna_3lpm12g94c_u_4_m7ra41");
+        System.out.println(S);
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter vault password: ");
         String userInput = scanner.next();
 	String input = userInput.substring("picoCTF{".length(),userInput.length()-1);
-	if (vaultDoor.checkPassword(input)) {
+                                                        /*
+                                                        * 8, 31
+                                                        */
+	/*if (vaultDoor.checkPassword(input)) {
 	    System.out.println("Access granted.");
 	} else {
 	    System.out.println("Access denied!");
-        }
+        }*/
     }
 
     // Our security monitoring team has noticed some intrusions on some of the
@@ -20,10 +27,10 @@ class VaultDoor3 {
     // keep all of those nosy agents out of our business. Mwa ha!
     //
     // -Minion #2671
-    public boolean checkPassword(String password) {
-        if (password.length() != 32) {
+    public String checkPassword(String password) {
+        /*if (password.length() != 32) {
             return false;
-        }
+        } */
         char[] buffer = new char[32];
         int i;
         for (i=0; i<8; i++) {
@@ -39,6 +46,8 @@ class VaultDoor3 {
             buffer[i] = password.charAt(i);
         }
         String s = new String(buffer);
-        return s.equals("jU5t_a_sna_3lpm12g94c_u_4_m7ra41");
+        return s;
+        //return s.equals("jU5t_a_sna_3lpm12g94c_u_4_m7ra41");
+
     }
 }
