@@ -1,6 +1,19 @@
+stack
+
+0000
+
+[ ebp ] <- esp <- ebp
+[ ret ] <- ebp + 0x4
+[0x8be] <- ebp + 0x8
+fffff
+
+registers
+[ 0x8bb ] eax
+
 asm1:
 	<+0>:	push   ebp
 	<+1>:	mov    ebp,esp
+
 	<+3>:	cmp    DWORD PTR [ebp+0x8],0x71c
 	<+10>:	jg     0x512 <asm1+37>
 	<+12>:	cmp    DWORD PTR [ebp+0x8],0x6cf
@@ -18,6 +31,7 @@ asm1:
 	<+52>:	jmp    0x529 <asm1+60>
 	<+54>:	mov    eax,DWORD PTR [ebp+0x8]
 	<+57>:	add    eax,0x3
+
 	<+60>:	pop    ebp
 	<+61>:	ret    
 
